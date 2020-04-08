@@ -1,6 +1,7 @@
 
-def input_to_index(user_input)
-  user_input.to_i - 1
+def input_to_index(input)
+  input.to_i - 1
+  input_to_index=index
 end
 
 
