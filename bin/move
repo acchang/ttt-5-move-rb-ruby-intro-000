@@ -6,4 +6,5 @@ puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 display_board
 input=gets.strip
-move# Code your CLI Here
+move(board, index, player)
+# Code your CLI Here
