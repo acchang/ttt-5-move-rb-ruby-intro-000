@@ -4,7 +4,6 @@ def input_to_index(input)
 end
 
 def move(board, index, player="X")
-  0=["X", " ", " ", " ", " ", " ", " ", " ", " "]
 end
 
 def display_board(board)
