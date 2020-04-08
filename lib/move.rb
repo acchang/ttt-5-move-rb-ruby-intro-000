@@ -1,9 +1,9 @@
+user_input=input_to_index
 
 def input_to_index(user_input)
   user_input.to_i - 1
 end
 
-user_input=input_to_index
 
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
