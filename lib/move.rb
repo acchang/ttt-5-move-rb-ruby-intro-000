@@ -3,7 +3,7 @@ def input_to_index(input)
   input.to_i - 1
 end
 
-def move(board, index, player="X")
+def move(index, board, player="X")
 end
 
 def display_board(board)
