@@ -6,6 +6,5 @@ puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 input=gets.strip
 move
-  0=["X", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board
 # Code your CLI Here
